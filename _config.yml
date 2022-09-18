@@ -1,6 +1,6 @@
 # Site settings
 course_name: Software Engineering
-course_description: "This course on Software Engineering aims to prepare under-grad studnets a professional carrer in software industry"
+course_description: "This  Software Engineering course aims to prepare under-grad studnets for a professional carrer in software industry."
 course_semester: "ODD 2022"
 
 baseurl: "/SE-2022-Final" # the subpath of your site, e.g. /blog/
