@@ -4,7 +4,7 @@ course_description: "This course on Software Engineering aims to prepare under-g
 course_semester: "ODD 2022"
 
 baseurl: "/SE-2022-Final" # the subpath of your site, e.g. /blog/
-url: "http://akiwele.github.io/" # the base hostname & protocol for your site
+url: "http://awk-cse.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Dr Babasaheb Ambedkar Technological University"
 schoolurl: "https://dbatu.ac.in"
